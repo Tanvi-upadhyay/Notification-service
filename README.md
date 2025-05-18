@@ -21,3 +21,11 @@ Default username: `guest`
 Default password: `guest`
 
 7. After successfully logging in, you should see the RabbitMQ home page.
+
+## 📄 API Documentation
+
+You can view the full API documentation [here](Notification_Service_API_Documentation.pdf).
+
+## 📄 SRS Documentation
+
+You can view the full SRS documentation [here](Software_Requiremets_Specification.pdf).
